@@ -1,0 +1,14 @@
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.exe
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.deps.json
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.dll
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.pdb
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.dll
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\obj\Debug\net10.0\refint\SingletonPatternExample.dll
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.pdb
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\Shiva\OneDrive\Desktop\cts\Design principles & Patterns\Exercise 1 Implementing the Singleton Pattern\SingletonPatternExample\obj\Debug\net10.0\ref\SingletonPatternExample.dll
